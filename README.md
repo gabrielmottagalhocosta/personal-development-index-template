@@ -6,55 +6,10 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>Backlog</h1>
 <ul>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Redux Toolkit</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
     <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] TypeScript Tips</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-    <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Beginners TypeScript</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-    <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Book] Capítulos 1 e 2 do livro "Código Limpo"</a> (0%)
+      <a href="https://www.totaltypescript.com/tips">[Course] TypeScript Tips</a> (0%)
     </summary>
     <ul>
         <li>
@@ -74,14 +29,44 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react"> [Course] Redux Toolkit</a> (100%)
+      <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8"> [Course] Redux Toolkit</a> (100%)✔️
     </summary>
     <ul>
         <li>
-          Started: 2022-11-10
+          Started: 2023-03-15
+        </li>
+        <li>
+          Finished: 2023-03-17
+        </li>
+      </ul>
+    </details>
+  </li>
+      <li>
+    <details> 
+    <summary>
+      <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] Beginners TypeScript</a> (50%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-04-10
         </li>
         <li>
           Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+    <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf">[Book] Capítulos 1 e 2 do livro "Código Limpo"</a> (70%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-05-03
+        </li>
+        <li>
+          Finished: 
         </li>
       </ul>
     </details>

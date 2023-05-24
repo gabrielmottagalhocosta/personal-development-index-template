@@ -59,7 +59,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
     <summary>
-      <a href="https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf">[Book] Capítulos 1 e 2 do livro "Código Limpo"</a> (70%)
+      <a href="https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf">[Book] Capítulos 1 e 2 do livro "Código Limpo"</a> (100%)✔️
     </summary>
     <ul>
         <li>

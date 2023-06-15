@@ -5,23 +5,7 @@ This is a simple document that aims to list and index evidences of personal deve
 </br>
 
 <h1>Backlog</h1>
-<ul>
-    <li>
-    <details> 
-    <summary>
-      <a href="https://www.totaltypescript.com/tips">[Course] TypeScript Tips</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-</ul>
+
 </br>
 
 <h1>2023</h1>
@@ -44,14 +28,14 @@ This is a simple document that aims to list and index evidences of personal deve
       <li>
     <details> 
     <summary>
-      <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] Beginners TypeScript</a> (50%)
+      <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] Beginners TypeScript</a> (100%)✔️
     </summary>
     <ul>
         <li>
           Started: 2023-04-10
         </li>
         <li>
-          Finished:
+          Finished:2023-05-01
         </li>
       </ul>
     </details>
@@ -66,12 +50,29 @@ This is a simple document that aims to list and index evidences of personal deve
           Started: 2023-05-03
         </li>
         <li>
-          Finished: 
+          Finished:2023-05-05 
         </li>
       </ul>
     </details>
   </li>
   </ul>
+  <ul>
+    <li>
+    <details> 
+    <summary>
+      <a href="https://www.totaltypescript.com/tips">[Course] TypeScript Tips</a> (100%)✔️
+    </summary>
+    <ul>
+        <li>
+          Started:2023-06-01 
+        </li>
+        <li>
+          Finished:2023-06-14
+        </li>
+      </ul>
+    </details>
+  </li>
+</ul>
 </br>
 
 <hr/>

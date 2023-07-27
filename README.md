@@ -5,11 +5,58 @@ This is a simple document that aims to list and index evidences of personal deve
 </br>
 
 <h1>Backlog</h1>
+<ul>
+</ul>
 
 </br>
 
 <h1>2023</h1>
 <ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://internal.docs.dynamox.solutions/"> [Post] Testing React Applications with Cypress </a> (0%)
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b"> [Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (0%)
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://learn.cypress.io/"> [Course] Real World Testing with Cypress</a> (0%)
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>

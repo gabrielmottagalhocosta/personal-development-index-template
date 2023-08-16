@@ -30,7 +30,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b"> [Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (0%)
+      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b"> [Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (%)
     </summary>
     <ul>
         <li>
@@ -45,14 +45,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://learn.cypress.io/"> [Course] Real World Testing with Cypress</a> (0%)
+      <a href="https://learn.cypress.io/"> [Course] Real World Testing with Cypress</a> (100%)✔️
     </summary>
     <ul>
         <li>
-          Started: 
+          Started: 03/08/2023 
         </li>
         <li>
-          Finished:
+          Finished: 07/08/2023
         </li>
       </ul>
     </details>

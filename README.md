@@ -12,21 +12,7 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://internal.docs.dynamox.solutions/"> [Post] Testing React Applications with Cypress </a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
+
   <li>
     <details> 
     <summary>

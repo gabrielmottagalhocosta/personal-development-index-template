@@ -16,7 +16,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b"> [Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (%)
+      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b"> [Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (20%)
     </summary>
     <ul>
         <li>
